@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyJSON</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country_names">
+        <item>India</item>
+        <item>Tom Cruise</item>
+        <item>Brad Pitt</item>
+        <item>Angelina Jolie</item>
+        <item>Tom Hanks</item>
+
+    </string-array>
+</resources>
